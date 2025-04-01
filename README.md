@@ -12,10 +12,6 @@ hearing from former colleagues or just interesting creative folk, so feel free t
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dradoaica&show_icons=true&theme=radical)
 
-### 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dradoaica&theme=radical&hide_border=true)
-
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dradoaica&theme=onedark)
@@ -32,7 +28,3 @@ hearing from former colleagues or just interesting creative folk, so feel free t
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/danutradoaica)
-
----
-*Generated with ❤️ by [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-and [Shields.io](https://shields.io/)*
