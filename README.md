@@ -8,10 +8,6 @@ hearing from former colleagues or just interesting creative folk, so feel free t
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dradoaica&color=blue)
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dradoaica&show_icons=true&theme=radical)
-
 ### 🚀 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dradoaica&theme=react-dark)
