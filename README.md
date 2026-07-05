@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dradoaica/dradoaica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm an enthusiastic and self-motivated software architect with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- experience in cloud solutions architecture and DevSecOps
+- 12+ years of polyglot experience in hands-on: .NET, Java, Node/JS/TS/Angular, Python
+- proficient in SQL, NoSQL, SOA, μSOA, EDA, TDD, design principles and patterns
+- excellent understanding of current enterprise software technologies and development practices/tools, including virtual
+  environments, source control, remote development, issue tracking, build and test automation, and networking management
+- research and development for GenAI/Conversational AI/Vision AI/DL/ML
+
+I've obtained the following certifications:
+
+- Microsoft Certified: Azure Solutions Architect Expert
+- Google Certified: Professional Cloud Architect
+- AWS Certified: Solutions Architect Associate
+- The Linux Foundation Certified: Kubernetes Application Developer (CKAD)
+- Microsoft Certified: Azure Developer Associate
+- Google Certified: Associate Cloud Engineer
+- AWS Certified: Developer Associate
+- The Linux Foundation Certified: Kubernetes and Cloud Native Associate (KCNA)
+- Microsoft Certified: Azure Fundamentals
+- Google Certified: Cloud Digital Leader
+- AWS Certified: Cloud Practitioner
+
+My hobbies are:
+
+- science and technology
+- gaming
+
+You can see some of my independent activity on [my blog](http://dradoaica.blogspot.com) and
+on [my GitHub profile](https://github.com/dradoaica).
+
+### 🚀 Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dradoaica&theme=react-dark)
+
+### 📈 Live Stats
+
+- 👥 Followers: ![Followers](https://img.shields.io/github/followers/dradoaica?style=flat)
+- 🤝 Sponsors: ![Sponsors](https://img.shields.io/github/sponsors/dradoaica?style=flat)
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dradoaica/)
