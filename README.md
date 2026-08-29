@@ -33,9 +33,9 @@ My hobbies are:
 You can see some of my independent activity on [my blog](http://dradoaica.blogspot.com) and
 on [my GitHub profile](https://github.com/dradoaica).
 
-### 🚀 Activity Graph
+### 🚀 Streak
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dradoaica&theme=react-dark)
+![Streak](https://streak-stats.demolab.com/?user=dradoaica&theme=react)
 
 ### 📈 Live Stats
 
