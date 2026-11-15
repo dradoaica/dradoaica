@@ -1,47 +1,62 @@
-# Hi there 👋
+<h1>Hi there, I'm Dan 👋</h1>
 
-## Welcome to my GitHub profile!
+Software / Systems / Solutions Architect · Bucharest, Romania
 
-I'm an enthusiastic and self-motivated software architect with:
+[![Followers](https://img.shields.io/github/followers/dradoaica?style=flat-square&label=followers)](https://github.com/dradoaica?tab=followers)
+[![Sponsors](https://img.shields.io/github/sponsors/dradoaica?style=flat-square&label=sponsors)](https://github.com/sponsors/dradoaica)
 
-- experience in cloud solutions architecture and DevSecOps
-- 12+ years of polyglot experience in hands-on: .NET, Java, Node/JS/TS/Angular, Python
-- proficient in SQL, NoSQL, SOA, μSOA, EDA, TDD, design principles and patterns
-- excellent understanding of current enterprise software technologies and development practices/tools, including virtual
-  environments, source control, remote development, issue tracking, build and test automation, and networking management
-- research and development for GenAI/Conversational AI/Vision AI/DL/ML
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=dradoaica&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=dradoaica&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com/?user=dradoaica&theme=default&hide_border=true" align="right" width="380" alt="GitHub streak" />
+</picture>
 
-I've obtained the following certifications:
+**I am a...**
 
-- Microsoft Certified: Azure Solutions Architect Expert
-- Google Certified: Professional Cloud Architect
-- AWS Certified: Solutions Architect Associate
-- The Linux Foundation Certified: Kubernetes Application Developer (CKAD)
-- Microsoft Certified: Azure Developer Associate
-- Google Certified: Associate Cloud Engineer
-- AWS Certified: Developer Associate
-- The Linux Foundation Certified: Kubernetes and Cloud Native Associate (KCNA)
-- Microsoft Certified: Azure Fundamentals
-- Google Certified: Cloud Digital Leader
-- AWS Certified: Cloud Practitioner
+- Software architect focused on cloud solutions and DevSecOps
+- Polyglot engineer with 12+ years hands-on in .NET, Java, Node/JS/TS/Angular and Python
+- Researcher and builder in GenAI, Conversational AI, Vision AI and DL/ML
+- Author
+  of [cogov-a-sdlc](https://github.com/dradoaica/cogov-a-sdlc), [helm-charts](https://github.com/dradoaica/helm-charts)
+  and [AspNetCore.Ignite](https://github.com/dradoaica/AspNetCore.Ignite)
+- Maintainer of [Rebalancer](https://github.com/dradoaica/Rebalancer), forked from Jack Vanlightly and improved
+- Science, technology and gaming enthusiast
 
-My hobbies are:
+<br>
 
-- science and technology
-- gaming
+**What I'm building**
 
-You can see some of my independent activity on [my blog](http://dradoaica.blogspot.com) and
-on [my GitHub profile](https://github.com/dradoaica).
+- [cogov-a-sdlc](https://github.com/dradoaica/cogov-a-sdlc) · Co-Governed Agentic SDLC
+- [helm-charts](https://github.com/dradoaica/helm-charts) · production-ready community Helm charts for underrated
+  open-source gems
+- [dotfiles](https://github.com/dradoaica/dotfiles) · a fresh Ubuntu Desktop turned into a complete development
+  workstation
+- [AspNetCore.Ignite](https://github.com/dradoaica/AspNetCore.Ignite) · Apache Ignite integration for ASP.NET Core
+- [Rebalancer](https://github.com/dradoaica/Rebalancer) · Kafka-style consumer groups for other technologies, on
+  ZooKeeper, SQL Server, PostgreSQL and Redis
 
-### 🚀 Streak
+**Certifications**
 
-![Streak](https://streak-stats.demolab.com/?user=dradoaica&theme=react)
+- **Azure** · Solutions Architect Expert · Developer Associate · Fundamentals
+- **Google Cloud** · Professional Cloud Architect · Associate Cloud Engineer · Cloud Digital Leader
+- **AWS** · Solutions Architect Associate · Developer Associate · Cloud Practitioner
+- **Kubernetes** · CKAD · KCNA
 
-### 📈 Live Stats
+**Where to find me**
 
-- 👥 Followers: ![Followers](https://img.shields.io/github/followers/dradoaica?style=flat)
-- 🤝 Sponsors: ![Sponsors](https://img.shields.io/github/sponsors/dradoaica?style=flat)
+[Blog](https://dradoaica.blogspot.com) ·
+[LinkedIn](https://linkedin.com/in/dradoaica/) ·
+[GitHub](https://github.com/dradoaica)
 
-### 🌐 Connect with Me
+**My GitHub Activities**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dradoaica/)
+[Created PRs](https://github.com/pulls?q=is%3Apr+author%3Adradoaica+-user%3Adradoaica) ·
+[Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Adradoaica+is%3Amerged+) ·
+[Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Adradoaica+-user%3Adradoaica) ·
+[All Involvements](https://github.com/pulls?q=involves%3Adradoaica+-user%3Adradoaica)
