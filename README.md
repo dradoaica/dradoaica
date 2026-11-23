@@ -3,7 +3,6 @@
 Software / Systems / Solutions Architect · Bucharest, Romania
 
 [![Followers](https://img.shields.io/github/followers/dradoaica?style=flat-square&label=followers)](https://github.com/dradoaica?tab=followers)
-[![Sponsors](https://img.shields.io/github/sponsors/dradoaica?style=flat-square&label=sponsors)](https://github.com/sponsors/dradoaica)
 
 <picture>
   <source
@@ -51,8 +50,7 @@ Software / Systems / Solutions Architect · Bucharest, Romania
 **Where to find me**
 
 [Blog](https://dradoaica.blogspot.com) ·
-[LinkedIn](https://linkedin.com/in/dradoaica/) ·
-[GitHub](https://github.com/dradoaica)
+[LinkedIn](https://linkedin.com/in/dradoaica/)
 
 **My GitHub Activities**
 

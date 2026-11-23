@@ -20,7 +20,9 @@ Back up first: Blogger → Theme → ▾ next to Customize → Backup.
 Either restore the theme: Theme → ▾ → Restore → upload [theme.xml](theme.xml).
 Or paste it: Theme → ▾ → Edit HTML, select everything, replace it with the content of [theme.xml](theme.xml), and save.
 
-To change the look, edit the overrides block at the end of the skin in `theme.xml`.
+To change the look, edit the overrides block at the end of the skin in `theme.xml`. Its colors are CSS variables at the
+top of the block, with a second set for dark mode. By default the blog follows the reader's system setting; a switch
+in the header, next to search, cycles system → light → dark and remembers the choice in the reader's browser.
 
 ## Pages
 
