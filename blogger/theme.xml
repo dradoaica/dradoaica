@@ -3068,6 +3068,14 @@ body.collapsed-header.item-view .centered-top-container .blog-name {
 .popular-posts-snippet .snippet-item {
   line-height: 24px;
 }
+.post-snippet .snippet-fade,
+.sidebar_bottom .popular-posts-snippet .snippet-fade {
+  background: linear-gradient(to left, var(--surface) 0, var(--surface) 20%, transparent 100%);
+}
+.post-snippet .snippet-fade,
+.PopularPosts .popular-posts-snippet .snippet-fade {
+  color: var(--text);
+}
 .FeaturedPost .snippet-container {
   margin: 12px 0 16px;
 }
